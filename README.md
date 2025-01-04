@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/0739-daily-temperatures) |
+| [1319-unique-number-of-occurrences](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/1319-unique-number-of-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/0735-asteroid-collision) |
+## Hash Table
+|  |
+| ------- |
+| [1319-unique-number-of-occurrences](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/1319-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
