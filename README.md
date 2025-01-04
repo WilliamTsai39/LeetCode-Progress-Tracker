@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/0937-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
