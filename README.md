@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/1319-unique-number-of-occurrences) |
+## Linked List
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
