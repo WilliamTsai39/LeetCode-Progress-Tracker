@@ -1,15 +1,17 @@
-// Last updated: 2025/10/12 下午7:01:03
+// Last updated: 2025/10/12 下午7:12:05
 /**
- * @param {number[]} arr
- * @param {Function} fn
- * @return {number[]}
+ * @return {Generator<number>}
  */
-var filter = function(arr, fn) {
-    let res=[];
-    for(let i = 0; i < arr.length; i++){
-        if(fn(arr[i], i)){
-            res.push(arr[i]);
-        }
+var fibGenerator = function*(n) {
+    let a = 0, b = 1;
+    while(true) {
+        yield a;
+        [a, b] = [b, a + b];
     }
-    return res;
 };
+
+/**
+ * const gen = fibGenerator();
+ * gen.next().value; // 0
+ * gen.next().value; // 1
+ */
