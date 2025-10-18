@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/0001-two-sum) |
 | [0735-asteroid-collision](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/0739-daily-temperatures) |
 | [1319-unique-number-of-occurrences](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/1319-unique-number-of-occurrences) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/0001-two-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/1319-unique-number-of-occurrences) |
 ## Linked List
 |  |
