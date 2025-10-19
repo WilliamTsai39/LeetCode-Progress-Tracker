@@ -56,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1670-patients-with-a-condition](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/1670-patients-with-a-condition) |
 <!---LeetCode Topics End-->
