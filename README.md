@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Database
+|  |
+| ------- |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/WilliamTsai39/LeetCode-Progress-Tracker/tree/master/1462-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
